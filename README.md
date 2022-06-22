@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="www.linkedin.com/in/queonias"><i>Queonias Gama Rocha</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="www.linkedin.com/in/queonias/"><i>Queonias Gama Rocha</i></a> 😃️</h1>
   <h2 align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i>
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/queonesgama/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/queonias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/queonias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:queones@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
