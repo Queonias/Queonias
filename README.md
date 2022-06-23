@@ -11,7 +11,7 @@
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/Queonias/github-readme-stats"><img height="165em" alt="Queonias Github Stats" src="https://github-readme-stats.vercel.app/api?username=Queonias&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/Queonias/github-readme-stats"><img height="165em" alt="Queonias Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queonias&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
+  <a href="https://github.com/Queonias/github-readme-stats"><img height="164em" alt="Queonias Github Stats" src="https://github-readme-stats.vercel.app/api?username=Queonias&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/Queonias/github-readme-stats"><img height="164em" alt="Queonias Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queonias&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
 </div>
 
     
