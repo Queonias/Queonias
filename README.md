@@ -1,7 +1,9 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/queonias/"><i>Queonias Gama Rocha</i></a> 😃️</h1>
-  <h2 align="center">Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i>
 </div>
+    <div>
+      <p>Olá, sou um desenvolvedor full-stack formado em engenharia química e cursando o curso de desenvolvimento web da Trybe. Aprendi a criar aplicações web com HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, bancos de dados SQL e NoSQL, e ferramentas de teste e validação. Tenho uma base sólida em análise crítica e resolução de problemas e estou empolgado em aplicar meus conhecimentos na área de desenvolvimento.</p>
+    </div>
 
 
 <!-- <h1 align="center"> 
@@ -10,6 +12,7 @@
 
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
+<h1 align="center">Tecnologias que estudo no meu dia-dia</h1>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=queonias&langs_count=10"><img height="164em" alt="Queonias Github Stats" src="https://github-readme-stats.vercel.app/api?username=Queonias&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=queonias&langs_count=10"><img height="164em" alt="Queonias Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queonias&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></a>
 </div>
