@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/queonias/"><i>Queonias Gama Rocha</i></a> 😃️</h1>
 </div>
     <div>
-      <p>Desenvolvedor full-stack formado em engenharia química e cursando o curso de desenvolvimento web da Trybe. Aprendi a criar aplicações web com HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, bancos de dados SQL e NoSQL, e ferramentas de teste e validação. Tenho uma base sólida em análise crítica e resolução de problemas e estou empolgado em aplicar meus conhecimentos na área de desenvolvimento.</p>
+      <p>Desenvolvedor full-stack. Aprendi a criar aplicações web com HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, bancos de dados SQL e NoSQL, e ferramentas de teste e validação. Tenho uma base sólida em análise crítica e resolução de problemas e estou empolgado em aplicar meus conhecimentos na área de desenvolvimento.</p>
     </div>
 
 
