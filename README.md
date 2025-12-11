@@ -44,9 +44,7 @@
 </div>
 
 <div align="center">
-  
- ![Snake animation](https://github.com/Queonias/Queonias/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://raw.githubusercontent.com/Queonias/Queonias/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
